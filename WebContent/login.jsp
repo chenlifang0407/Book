@@ -43,6 +43,7 @@
 						<form action="BookServlet" method="get">
 							<input type="hidden" name="flag" value="selectAll">
 							<input type="submit" class="btn ban-btn" value="登&nbsp;&nbsp;&nbsp;录" />
+							
 						</form>
                </div>
             </div>
