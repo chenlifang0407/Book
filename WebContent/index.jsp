@@ -12,7 +12,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-			<h1>图书 管理系统</h1>
+			<h1>欢迎进入图书管理系统</h1>
 			
 			<form action="BookServlet" method="post">
 				书名:<input type="text" name="name">

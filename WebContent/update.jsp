@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-			<h1>更新页面</h1>
+			<h1>更新书籍</h1>
 				<form action="BookServlet" method="post">
 					编号：<input type="text" name="id" value="<%=book.getId()%>">
 					书名：<input type="text" name="name" value="<%=book.getName() %>">

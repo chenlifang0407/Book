@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-				<h1>添加页面</h1>
+				<h1>添加新书籍</h1>
 				<form action="BookServlet" method="post">
 					编号：<input type="text" name="id">
 					书名：<input type="text" name="name">
