@@ -29,7 +29,7 @@
 				height: 35px;
 				margin-top: 14px;
 				margin-left: 17px;
-				background-image: url(img/logo.png);
+				
 				background-size: 182px 35px;
 				background-position: left center;
 				background-repeat: no-repeat;
@@ -59,8 +59,9 @@
 				margin: 0px 20px 60px 25px;
 			}
 			.login_pictures{
+			background-image: url(img/1.jpg);
 				position: relative;
-				margin-right: 395px;
+				margin-right: 10px;
 			}
 			.login_container{
 				width: 334px;
@@ -78,13 +79,13 @@
 			}
 			.login_pictures_picture{
 				position: absolute;
-				left: 0px;
+				left: 50px;
 				right: 0px;
 				top: 0px;
 				height: 400px;
-				background-image: url(img/首页.jpg);
+				
 				background-repeat: no-repeat;
-				background-position: right 20px; 
+				background-position: right 10px; 
 			}
 			.footer{
 				position: static;
@@ -148,15 +149,8 @@
 			
 	<div class="header">
 			<a href="#" class="a">图片</a>
-			<div class="header-link">
-				<a href="#">基本版</a>&nbsp;
-				|&nbsp;
-				<a href="#">English</a>&nbsp;
-				|&nbsp;
-				<a href="#">手机版</a>&nbsp;
-				|&nbsp;
-				<a href="#">企业版</a>
-			</div>
+				<h1>好 东 软 图 书 管 理 系 统</h1>
+			
 		</div>
 		
 	<div class="content">
