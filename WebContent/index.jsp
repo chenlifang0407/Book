@@ -9,17 +9,19 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>首页</title>
+
 </head>
 <body>
-			<h1>欢迎进入图书管理系统</h1>
+			<div class="header">
+			<h1 style="color: #FF7F00">欢迎进入图书管理系统</h1>
 			
 			<form action="BookServlet" method="post">
 				书名:<input type="text" name="name">
 				<input type="hidden" name="flag" value="selectByName">
 				<input type="submit" value="查  询">
 			</form>
-			
+			</div>
 			共计-<%=list.size() %>-本书
 			<br>
 			<a href="add.jsp">添加图书</a>

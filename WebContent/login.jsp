@@ -35,10 +35,14 @@
       <div id="cbp-so-scroller" class="cbp-so-scroller cbp-scroller-main container-fluid">
          <section id="intro" class="cbp-so-section text-center ss-style-triangles">
             <div class="container-fluid text-center banner-main">
-               <div class="ban-text-middle">
+               <div style="margin-top: 200px; ">
                   
                   <h1>欢迎登陆好东软图书管理系统</h1>
+                  <br>
+                  <br>
                   <p>能进行管理信息的收集、传递、加工、保存、维护和使用的系统。利用信息控制企业的行为;帮助企业实现其规划目标。</p>
+                  <br>
+                  <br>
 
 						<form action="BookServlet" method="get">
 							<input type="hidden" name="flag" value="selectAll">
