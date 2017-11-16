@@ -26,7 +26,7 @@
             <div class="navbar-header">
               
                <a class="navbar-brand ms-logo" href="#">
-               <h3 style="color:#222222; text-align: center; ">图书管理系统</h3>
+               <h3 style="color:white; text-align: center; ">图书管理系统</h3>
                </a>
             </div>
        	</nav>
@@ -37,10 +37,9 @@
             <div class="container-fluid text-center banner-main">
                <div style="margin-top: 200px; ">
                   
-                  <h1>欢迎登陆好东软图书管理系统</h1>
+                  <h1 style="color: white; font-family: 微软雅黑">欢迎登陆好东软图书管理系统</h1>
                   <br>
                   <br>
-                  <p>能进行管理信息的收集、传递、加工、保存、维护和使用的系统。利用信息控制企业的行为;帮助企业实现其规划目标。</p>
                   <br>
                   <br>
 
